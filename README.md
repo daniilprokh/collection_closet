@@ -10,3 +10,9 @@
 
 ## Скриншоты
 ![db_git_1](https://user-images.githubusercontent.com/83980779/174857572-0cc7c224-13a6-4082-9440-6c7ee44f3321.png 'Получение доступа')
+
+![db_git_2](https://user-images.githubusercontent.com/83980779/174858195-e273bf08-4392-4596-8636-2f8adf8480de.png 'Главное окно, коллекция книг')
+
+![db_git_3](https://user-images.githubusercontent.com/83980779/174858226-0b0ba7a9-b42e-4800-b163-4fb93645ebf2.png 'Главное окно, коллекция компьютерных игр')
+
+![db_git_4](https://user-images.githubusercontent.com/83980779/174858245-2c23cf6a-4c0a-4186-8c04-4fe4026032f8.png 'Форма добавление фильма в коллекцию')
