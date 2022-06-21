@@ -1,0 +1,115 @@
+<!DOCTYPE QPH>
+<QPH language="ru_RU" sourcelanguage="en">
+<phrase>
+    <source>Name</source>
+    <target>Наименование</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Тип</target>
+</phrase>
+<phrase>
+    <source>Platform</source>
+    <target>Платформа</target>
+</phrase>
+<phrase>
+    <source>Genre</source>
+    <target>Жанр</target>
+</phrase>
+<phrase>
+    <source>Video games</source>
+    <target>Видеоигры</target>
+</phrase>
+<phrase>
+    <source>Books</source>
+    <target>Книги</target>
+</phrase>
+<phrase>
+    <source>Music albums</source>
+    <target>Музыкальные альбомы</target>
+</phrase>
+<phrase>
+    <source>Figures</source>
+    <target>Фигурки</target>
+</phrase>
+<phrase>
+    <source>Movies</source>
+    <target>Фильмы</target>
+</phrase>
+<phrase>
+    <source>Author</source>
+    <target>Автор</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Размер</target>
+</phrase>
+<phrase>
+    <source>Height</source>
+    <target>Высота</target>
+</phrase>
+<phrase>
+    <source>Release year</source>
+    <target>Год выхода</target>
+</phrase>
+<phrase>
+    <source>Developer</source>
+    <target>Разработчик</target>
+</phrase>
+<phrase>
+    <source>Publisher</source>
+    <target>Издатель</target>
+</phrase>
+<phrase>
+    <source>Directed by</source>
+    <target>Режиссер</target>
+</phrase>
+<phrase>
+    <source>List of songs</source>
+    <target>Список песен </target>
+</phrase>
+<phrase>
+    <source>Music genres</source>
+    <target>Жанры музыки</target>
+</phrase>
+<phrase>
+    <source>Video game genres</source>
+    <target>Жанры видео игр</target>
+</phrase>
+<phrase>
+    <source>Movie genres</source>
+    <target>Жанры кино</target>
+</phrase>
+<phrase>
+    <source>Platforms</source>
+    <target>Платформы</target>
+</phrase>
+<phrase>
+    <source>Performer</source>
+    <target>Исполнитель</target>
+</phrase>
+<phrase>
+    <source>Digital</source>
+    <target>Цифровой</target>
+</phrase>
+<phrase>
+    <source>Physical</source>
+    <target>Физический</target>
+</phrase>
+<phrase>
+    <source>Song</source>
+    <target>Песня</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Формат</target>
+</phrase>
+<phrase>
+    <source>Image</source>
+    <target>Изображение</target>
+</phrase>
+<phrase>
+    <source>Storage</source>
+    <target>Хранение</target>
+</phrase>
+</QPH>

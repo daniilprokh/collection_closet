@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/tr">
+	<file>resources/collection_closet.qm</file>
+    </qresource>
+</RCC>
